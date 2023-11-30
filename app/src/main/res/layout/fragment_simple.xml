@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC1E1E"
+    android:gravity="center"
+    android:text="@string/este_es_un_fragment_simple"
+    android:textColor="#F3E5F5"
+    android:textSize="18sp" />
